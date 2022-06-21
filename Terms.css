@@ -17,3 +17,12 @@
   color: #9e48cd;
   font-weight: bold;
 }
+.term-img-cont{
+  height:30vh;
+  width: 100%;
+  overflow: hidden;
+}
+
+#nav-placeholder{
+  display: block;
+  }
